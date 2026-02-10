@@ -77,7 +77,7 @@ code-alpha-calculator/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/BalajeeChaubey/Code-Alpha-simple-Calculator
+   git clone https://github.com/BalajeeChaubey/code-alpha-calculator
 
 
    ---
